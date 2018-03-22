@@ -19,10 +19,8 @@ ul {
 	padding: 0;
 	list-style: none;
   }
-  
 
-
-.navbar-nav {
+  .navbar-nav {
     display:inline-block;
     float:none;
 }
